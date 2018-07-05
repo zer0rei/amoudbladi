@@ -23,11 +23,15 @@ body {
 }
 
 #info {
-  color: grey;
   margin-top: 30px;
 }
 
 #info p {
-  margin: 0;
+  margin: 3px;
   opacity: 0.5;
+}
+
+#info a {
+  color: grey;
+  text-decoration: none;
 }
